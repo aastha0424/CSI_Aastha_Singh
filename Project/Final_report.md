@@ -42,6 +42,7 @@ Six regression models were trained and evaluated:
 An interactive app was built using [Streamlit](https://streamlit.io/) that allows users to input student attributes and receive a predicted final grade instantly.
 
 ### 📷 App Screenshot:
-![Streamlit UI Screenshot](Project\screenshots\streamlit_ui.png.png) 
+![Streamlit UI Screenshot](screenshots/streamlit_ui.png)
+
 
 ---
