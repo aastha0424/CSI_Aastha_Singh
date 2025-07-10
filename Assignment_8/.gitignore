@@ -1,0 +1,25 @@
+# Ignore environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# VS Code
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit cache
+.streamlit/
+
+# Data files
+*.csv
+*.xlsx
+
+# Logs and system files
+*.log
+.DS_Store
+Thumbs.db
