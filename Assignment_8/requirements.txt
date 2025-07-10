@@ -1,0 +1,13 @@
+pandas
+tqdm
+sentence-transformers
+scikit-learn
+faiss-cpu
+flask           # optional: if using Flask UI
+streamlit       # optional: if using Streamlit UI
+openai          # optional: if using OpenAI GPT
+transformers
+torch
+groq
+pandas
+numpy
