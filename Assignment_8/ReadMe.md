@@ -6,6 +6,19 @@ An AI-powered chatbot built using **Retrieval-Augmented Generation (RAG)** and *
 
 ---
 
+## 🔑 Environment Setup
+
+1. Duplicate the `.env.example` file:
+
+
+2. Open `.env` and paste your **Groq API Key**:
+
+```env
+GROQ_API_KEY=your-real-key-here
+
+📌 Don’t commit .env — it's already ignored using .gitignore.
+
+
 ## 🚀 Features
 
 - 🔍 **Question Answering from CSV** using RAG  
